@@ -1,6 +1,6 @@
 👋 Hi, I'm Aanvetha Pediredla
 
-I'm a postgraduate student in Data Science, I'm passionate about leveraging data to solve real-world problems and generate actionable insights."
+I'm a postgraduate student in the field of  Data Science, I'm passionate about leveraging data to solve real-world problems and generate actionable insights."
 
 🛠️ Skills
 
