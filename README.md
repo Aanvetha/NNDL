@@ -12,7 +12,7 @@ I'm a postgraduate student in Data Science, I'm passionate about leveraging data
 
 ● Other : Advanced Excel
 
-Current Projects
+🚀 Current Projects
 
 🧠 Mental Health Sentiment Tracker – combining Excel and Python to visualize moods and burnout risks.
 
